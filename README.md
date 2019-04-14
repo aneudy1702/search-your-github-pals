@@ -1,3 +1,6 @@
+# search-your-github-pals
+mini app to play around with the github APIs
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
